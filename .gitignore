@@ -29,7 +29,6 @@ out/
 .env.*.local
 
 # Solidity specific files
-*.sol
 *.dbg
 
 # Compiled Solidity files
